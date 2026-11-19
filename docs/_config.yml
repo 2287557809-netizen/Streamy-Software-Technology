@@ -1,2 +1,5 @@
-title: Streamy Documentation
 theme: jekyll-theme-minimal
+
+# 引入 Mermaid 脚本
+include:
+  - mermaid_script.html
